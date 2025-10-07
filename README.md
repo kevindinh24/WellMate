@@ -166,20 +166,6 @@ flutter run -d "android"
 - **Historical Data**: Weight and activity trends
 - **Real-time Updates**: Live progress synchronization
 
-## 🔧 Development
-
-### Project Structure
-```
-lib/
-├── components/          # Reusable UI components
-├── screens/            # Main app screens
-│   ├── goals/         # Goals management
-│   └── ...
-├── services/           # Business logic services
-├── firebase_helper.dart # Firebase integration
-└── main.dart          # App entry point
-```
-
 ### Key Features Implementation
 - **Character Animation**: Custom animation controllers
 - **Conversation Flow**: State-based conversation system
@@ -209,21 +195,6 @@ flutter build ios --release
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For technical support or questions:
-- Email: wellmate@drexel.edu
-- Create an issue in the repository
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase for backend services
-- Material Design for UI components
-- The WellMate development team
-
----
 
 <div align="center">
   <p>Made with ❤️ by the WellMate Team</p>
