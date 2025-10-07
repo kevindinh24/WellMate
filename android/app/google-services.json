@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656647613013",
+    "project_id": "wellmate-55cf1",
+    "storage_bucket": "wellmate-55cf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656647613013:android:c45969c76b0084e13d02dc",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaoBfe9bVUL3d0-NHab--pqyYSQdz7P6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+All following emails are super duper fake
+because creating a bunch of test emails would be against TOS
+
+The list is represented as follows: email::password
+
+johnDoe@unkown.com::bapple23
+
+chrisKyle@snipe.com::whitefeather338
+
+EdddyS@haxxor.com::Wanted911
+
+RickyDoodah@grimes.com::coral223
+
+WeAre@spartacus.com::vivaroma300
+
+Indiana@temple.com::snakes4ever
+
+Neo@matrix.org::redpill01
+
+BilboB@shire.net::myprecious111
+
+Bond.James@mi6.net::007license
+
+MartyM@back2the.future::delorean88
