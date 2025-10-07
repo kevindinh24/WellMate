@@ -8,6 +8,48 @@
   [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 </div>
 
+<div align="center">
+  <h3>Key App Screens</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/login-screen.png" alt="Login Screen" width="200">
+        <br><b>🔐 Login Screen</b>
+        <br><em>Secure authentication with social login options</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/character-selection.png" alt="Character Selection" width="200">
+        <br><b>🎭 Character Selection</b>
+        <br><em>Choose your wellness companion</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/home-screen.png" alt="Home Screen" width="200">
+        <br><b>🏠 Interactive Home</b>
+        <br><em>Chat with your character companion</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/screenshots/goals-page.png" alt="Goals Page" width="200">
+        <br><b>🎯 Goals Management</b>
+        <br><em>Track your wellness objectives</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/habits-page.png" alt="Habits Page" width="200">
+        <br><b>📚 Daily Habits</b>
+        <br><em>Build healthy daily routines</em>
+      </td>
+      <td align="center">
+        <img src="assets/screenshots/activity-calendar.png" alt="Activity Calendar" width="200">
+        <br><b>📅 Activity Calendar</b>
+        <br><em>Visualize your progress over time</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ## 📱 Overview
 
 WellMate is a comprehensive health and wellness mobile application built with Flutter that helps users track their fitness goals, build healthy habits, and connect with friends for motivation and support. The app features an engaging character-based interface that guides users through their wellness journey with interactive conversations and progress tracking.
@@ -166,20 +208,6 @@ flutter run -d "android"
 - **Historical Data**: Weight and activity trends
 - **Real-time Updates**: Live progress synchronization
 
-## 🔧 Development
-
-### Project Structure
-```
-lib/
-├── components/          # Reusable UI components
-├── screens/            # Main app screens
-│   ├── goals/         # Goals management
-│   └── ...
-├── services/           # Business logic services
-├── firebase_helper.dart # Firebase integration
-└── main.dart          # App entry point
-```
-
 ### Key Features Implementation
 - **Character Animation**: Custom animation controllers
 - **Conversation Flow**: State-based conversation system
@@ -209,21 +237,6 @@ flutter build ios --release
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-For technical support or questions:
-- Email: wellmate@drexel.edu
-- Create an issue in the repository
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Firebase for backend services
-- Material Design for UI components
-- The WellMate development team
-
----
 
 <div align="center">
   <p>Made with ❤️ by the WellMate Team</p>
